@@ -1,6 +1,6 @@
 function wordBlanks(myNoun,myAdjective,myVerb,myAdverb){
     var result = "";
-    result += myNoun + " wanna" + myAdjective + "my" + myNoun +myVerb + "in the hole";
+    result += myNoun + " wanna " + myAdjective + " my " +myVerb + " in the hole";
 
     return result;
 }
